@@ -1,0 +1,15 @@
+.imagenEncabezado {
+    width: 100%;
+}
+
+.perfil {
+    
+    position: absolute;
+    z-index: 10;
+    top:300px;
+    left: 0;
+}
+
+.colPerfil {
+    background-color: white;
+}
